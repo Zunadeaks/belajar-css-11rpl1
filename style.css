@@ -1,0 +1,30 @@
+*,
+html{
+    margin: 0;
+    padding: 0;
+}
+
+.kelas{
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+
+.griya{
+    background-color: crimson;
+    display: flex;
+    align-items: center;
+}
+
+.wa{
+    background-color: brown;
+    display: flex;
+    align-items: center;
+}
+
+.hobi{
+    background-color: pink;
+    display: flex;
+    align-items: center;
+}
