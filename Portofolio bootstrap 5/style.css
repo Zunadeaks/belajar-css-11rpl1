@@ -1,0 +1,15 @@
+.jumbotron{
+    padding-top: 6rem;
+    background-color: rgb(47, 0, 255);
+}
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+ }
+#projects{
+    background-color: rgb(17, 0, 255);
+}
+section{
+    padding-top: 5rem;
+}
